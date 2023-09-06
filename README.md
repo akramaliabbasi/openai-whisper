@@ -145,3 +145,63 @@ Please use the [🙌 Show and tell](https://github.com/openai/whisper/discussion
 ## License
 
 Whisper's code and model weights are released under the MIT License. See [LICENSE](https://github.com/openai/whisper/blob/main/LICENSE) for further details.
+
+
+
+
+OR may be you needed bellow one
+
+
+📚 RESOURCES
+- Install Python: https://www.python.org/
+
+- Install PyTorch: https://pytorch.org/get-started/locally/
+
+- Install Chocolatey: https://chocolatey.org/
+
+REF: https://www.youtube.com/watch?v=ABFqbY_rmEk 
+
+⌚ TIMESTAMPS
+00:00 Introduction
+00:40 Install overview
+01:00 Install Python
+02:31 Install PyTorch
+03:55 Install Chocolatey package manager
+04:53 Install ffmpeg
+05:28 Install Whisper AI
+05:59 Transcribe one file
+07:18 Output files
+07:58 Transcribe multiple files
+08:39 Available models
+09:51 Transcribe in other languages
+10:31 Translate to English
+11:06 Help
+11:40 Quality
+12:04 Uninstall
+12:14 Wrap up
+ 
+📺 RELATED VIDEOS
+- Run Whisper AI in the cloud for free using Google Colab:   
+
+ • Best FREE Speech to Text AI - Whisper AI  
+
+😢 Uninstall instructions:
+- Uninstall Whisper AI
+In command prompt, enter:
+pip uninstall openai-whisper
+ 
+- Uninstall ffmpeg
+In command prompt, enter:
+choco uninstall ffmpeg
+ 
+- Uninstall Chocolatey
+In File Explorer, delete the folder:
+"C:\ProgramData\chocolatey"
+ 
+- Uninstall PyTorch
+In Command Prompt, enter:
+Pip3 uninstall torch torchvision torchaudio
+ 
+- Uninstall Python
+Go to Installed Apps in Windows Settings, search for Python and Python Launcher, click the three dots, and then uninstall.
+
